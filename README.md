@@ -32,7 +32,3 @@
 <h2 align="center">Meu Nome é Carlos Vinicius <br><br>- Estudante de Ciência da Computação na CESAR school.<br>- Programador iniciante em Python.<br>- Entusiasta de Tecnologia</h2>
 
 ###
-
-<img src="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/snake-output/snake.svg" alt="Snake animation" />
-
-###
