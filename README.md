@@ -13,9 +13,9 @@
 
 <p align="center">
   🎓 Estudante de Ciência da Computação na CESAR School <br>
-  🐍 Desenvolvedor Python em formação <br>
   🤖 Entusiasta de Tecnologia e Desenvolvimento de Software <br>
-  🚀 Sempre aprendendo e construindo novos projetos
+  🚀 Sempre aprendendo e construindo novos projetos<br>
+  🐍 Desenvolvedor Python em formação 
 </p>
 
 ###
