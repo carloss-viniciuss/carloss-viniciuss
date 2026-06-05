@@ -11,9 +11,9 @@
 
 ###
 <p align="center">
-  <img width="180" align="left" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  <img width="200" align="left" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
- <img width="180" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58">
+ <img width="200" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58">
 </p>
 
 <br><br>
@@ -27,8 +27,8 @@
 
 </div>
 
-<br clear="both">
-##
+<br clear="both"> <br>
+
 
 
 <div align="center">
