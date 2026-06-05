@@ -49,4 +49,3 @@
       src="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph-dark.svg">
   </picture>
 </div>
-##
