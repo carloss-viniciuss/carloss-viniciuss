@@ -8,31 +8,28 @@
   <img src="https://skillicons.dev/icons?i=python,arduino,vscode,github,figma" />
 </div>
 
+
 ###
-
-
 <p align="center">
-  🎓 Estudante de Ciência da Computação na CESAR School <br>
-  🤖 Entusiasta de Tecnologia e Desenvolvimento de Software <br>
-  🚀 Sempre aprendendo e construindo novos projetos<br>
-  🐍 Desenvolvedor Python em formação 
+  <img width="180" align="left" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+ <img width="180" align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58">
 </p>
 
-###
+<br><br>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/carlos-viniciuss/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="SEU_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
+🎓 Estudante de Ciência da Computação na CESAR School<br>
+🤖 Entusiasta de Tecnologia e Desenvolvimento de Software<br>
+🚀 Sempre aprendendo e construindo novos projetos<br>
+🐍 Desenvolvedor Python em formação<br>
 
 </div>
 
+<br clear="both">
 ##
+
 
 <div align="center">
   <picture>
