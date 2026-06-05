@@ -1,21 +1,8 @@
-<h1 align="center">👋 Opa! Tudo certo?</h1>
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
 ###
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph-dark.svg">
-
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph.svg">
-
-  <img alt="Pacman contribution graph"
-    src="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph.svg">
-  </picture>
-</div>
-
-###
+<h1 align="center">Carlos Vinicius</h1>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,arduino,vscode,github,figma" />
@@ -23,7 +10,6 @@
 
 ###
 
-<h2 align="center">Carlos Vinicius</h2>
 
 <p align="center">
   🎓 Estudante de Ciência da Computação na CESAR School <br>
@@ -47,3 +33,20 @@
 </a>
 
 </div>
+
+##
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph-dark.svg">
+
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph.svg">
+
+  <img alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph.svg">
+  </picture>
+</div>
+
+##
