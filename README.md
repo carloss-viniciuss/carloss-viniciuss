@@ -1,39 +1,49 @@
-<h1 align="center">Opa! Tudo certo?</h1>
+<h1 align="center">👋 Opa! Tudo certo?</h1>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-</div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph-dark.svg">
 
-###
-
-<picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph-dark.svg">
-
-  <source media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph.svg">
 
-  <img alt="pacman contribution graph"
+  <img alt="Pacman contribution graph"
     src="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  </picture>
 </div>
 
 ###
 
-<h2 align="center">Meu Nome é Carlos Vinicius <br><br>- Estudante de Ciência da Computação na CESAR school.<br>- Programador iniciante em Python.<br>- Entusiasta de Tecnologia</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,arduino,vscode,github,figma" />
+</div>
 
 ###
+
+<h2 align="center">Carlos Vinicius</h2>
+
+<p align="center">
+  🎓 Estudante de Ciência da Computação na CESAR School <br>
+  🐍 Desenvolvedor Python em formação <br>
+  🤖 Entusiasta de Tecnologia e Desenvolvimento de Software <br>
+  🚀 Sempre aprendendo e construindo novos projetos
+</p>
+
+###
+
+<div align="center">
+
+<a href="SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=carlosvinicius0293-droid&style=for-the-badge" />
+
+<a href="SEU_PORTFOLIO">
+  <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+</div>
